@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/da_core/core/core.iml" filepath="$PROJECT_DIR$/da_core/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da_application/digitalashram/digitalashram.iml" filepath="$PROJECT_DIR$/da_application/digitalashram/digitalashram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_backend_app.iml" filepath="$PROJECT_DIR$/.idea/java_backend_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da_application/mainapp/mainapp.iml" filepath="$PROJECT_DIR$/da_application/mainapp/mainapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da_users/users/users.iml" filepath="$PROJECT_DIR$/da_users/users/users.iml" />
+    </modules>
+  </component>
+</project>

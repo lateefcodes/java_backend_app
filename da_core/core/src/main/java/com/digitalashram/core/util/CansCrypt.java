@@ -18,9 +18,7 @@ public class CansCrypt {
 
     private static String algorithm = "AES";
     private static String algorithmChiper = "AES/CBC/PKCS5PADDING";
-    //private static byte[] keyValue = new byte[] { 'D', 'i', 'g', 'I', 't', 'a', 'l', 'A', 's', 'H', 'R', 'A', 'm','o','r','G'};
-
-    private static byte[] keyValue = new byte[] { 'T', 'e', 'c', 'H', 't', 'r', 'e', 'E', 'i', 'T', 'S', 'Y', 's', 't', 'e', 'M' };
+    private static byte[] keyValue = new byte[] { 'D', 'i', 'g', 'I', 't', 'a', 'l', 'A', 's', 'H', 'R', 'A', 'm','o','r','G'};
     private static IvParameterSpec ivspec = new IvParameterSpec(keyValue);
 
     private CansCrypt() {
